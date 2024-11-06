@@ -1,6 +1,7 @@
 <?php
 	/**
 		* Plugin Name: Search Logger
+		* Plugin URI: https://github.com/deeweb/search-logger
 		* Description: Record visitor searches and display search statistics in the WordPress admin panel.
 		* Version: 1.0
 		* Author: deeweb
