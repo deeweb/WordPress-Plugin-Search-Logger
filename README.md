@@ -39,5 +39,3 @@ Ce plugin enregistre les recherches effectuées par les visiteurs sur votre site
 ## Configuration
 
 Après l'activation, vous trouverez une nouvelle option dans le menu d'administration de WordPress où vous pourrez voir les recherches.
-
-![Logo](https://deeweb.fr/images/logo_deeweb.png)
