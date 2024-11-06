@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:       Search Logger
-Description:       Enregistre les recherches des visiteurs et affiche les statistiques des recherches dans l'administration.
+Description:       Record visitor searches and display search statistics in the WordPress admin panel.
 Version:           1.0
 Author:            deeweb
 Author URI:        https://deeweb.fr/
